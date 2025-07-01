@@ -1,1 +1,1 @@
-# Ai-tattoo-design-generate
+# Ai-tattoo-design-generates
